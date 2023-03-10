@@ -1,11 +1,19 @@
 ﻿{
-    "date": ["2023-04-09"],
-    "sess": ["2023-04-09周日18：00"],
-    "price": [1599],
-    "real_name": ["若磐石"],
-    "nick_name": "nala",
-    "ticket_num": 1,
-    "driver_path": "/usr/lib/driver",
-    "damai_url": "https://www.damai.cn/",
-    "target_url":  "https://detail.damai.cn/item.htm?id=706301465247"
+  "date": [
+    "2023-04-09"
+  ],
+  "sess": [
+    "2023-04-09周日18：00"
+  ],
+  "price": [
+    1599
+  ],
+  "real_name": [
+    "若磐石"
+  ],
+  "nick_name": "nala",
+  "ticket_num": 1,
+  "driver_path": "./chromedriver.exe",
+  "damai_url": "https://www.damai.cn/",
+  "target_url": "https://detail.damai.cn/item.htm?id=706301465247"
 } 
